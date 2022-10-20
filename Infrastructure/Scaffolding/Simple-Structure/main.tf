@@ -1,0 +1,1 @@
+# All your resource code will go here and deploy in one large file
